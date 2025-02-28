@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,82 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AlegreyaSC Black.ttf</string>
+		<string>AlegreyaSC Italic.ttf</string>
+		<string>AlegreyaSC BlackItalic.ttf</string>
+		<string>AlegreyaSC Bold.ttf</string>
+		<string>AlegreyaSC BoldItalic.ttf</string>
+		<string>AlegreyaSC ExtraBold.ttf</string>
+		<string>AlegreyaSC ExtraBoldItalic.ttf</string>
+		<string>AlegreyaSC Medium.ttf</string>
+		<string>AlegreyaSC MediumItalic.ttf</string>
+		<string>AlegreyaSC Regular.ttf</string>
+		<string>AlegreyaSansSC Black.ttf</string>
+		<string>AlegreyaSansSC BlackItalic.ttf</string>
+		<string>AlegreyaSansSC Bold.ttf</string>
+		<string>AlegreyaSansSC BoldItalic.ttf</string>
+		<string>AlegreyaSansSC ExtraBold.ttf</string>
+		<string>AlegreyaSansSC ExtraBoldItalic.ttf</string>
+		<string>AlegreyaSansSC Italic.ttf</string>
+		<string>AlegreyaSansSC Light.ttf</string>
+		<string>AlegreyaSansSC LightItalic.ttf</string>
+		<string>AlegreyaSansSC Medium.ttf</string>
+		<string>AlegreyaSansSC MediumItalic.ttf</string>
+		<string>AlegreyaSansSC Regular.ttf</string>
+		<string>AlegreyaSansSC Thin.ttf</string>
+		<string>AlegreyaSansSC ThinItalic.ttf</string>
+		<string>FiraSans Black.ttf</string>
+		<string>FiraSans BlackItalic.ttf</string>
+		<string>FiraSans Bold.ttf</string>
+		<string>FiraSans BoldItalic.ttf</string>
+		<string>FiraSans ExtraBold.ttf</string>
+		<string>FiraSans ExtraBoldItalic.ttf</string>
+		<string>FiraSans ExtraLight.ttf</string>
+		<string>FiraSans ExtraLightItalic.ttf</string>
+		<string>FiraSans Italic.ttf</string>
+		<string>FiraSans Light.ttf</string>
+		<string>FiraSans Medium.ttf</string>
+		<string>FiraSans MediumItalic.ttf</string>
+		<string>FiraSans Regular.ttf</string>
+		<string>FiraSans SemiBold.ttf</string>
+		<string>FiraSans Thin.ttf</string>
+		<string>FiraSans ThinItalic.ttf</string>
+		<string>FiraSansCondensed Black.ttf</string>
+		<string>FiraSansCondensed BlackItalic.ttf</string>
+		<string>FiraSansCondensed Bold.ttf</string>
+		<string>FiraSansCondensed BoldItalic.ttf</string>
+		<string>FiraSansCondensed ExtraBold.ttf</string>
+		<string>FiraSansCondensed ExtraBoldItalic.ttf</string>
+		<string>FiraSansCondensed ExtraLight.ttf</string>
+		<string>FiraSansCondensed ExtraLightItalic.ttf</string>
+		<string>FiraSansCondensed Italic.ttf</string>
+		<string>FiraSansCondensed Light.ttf</string>
+		<string>FiraSansCondensed LightItalic.ttf</string>
+		<string>FiraSansCondensed Medium.ttf</string>
+		<string>FiraSansCondensed MediumItalic.ttf</string>
+		<string>FiraSansCondensed Regular.ttf</string>
+		<string>FiraSansCondensed SemiBold.ttf</string>
+		<string>FiraSansCondensed SemiBoldItalic.ttf</string>
+		<string>FiraSansCondensed Thin.ttf</string>
+		<string>FiraSansCondensed ThinItalic.ttf</string>
+		<string>FiraSansLight Italic.ttf</string>
+		<string>FiraSansSemiBold Italic.ttf</string>
+		<string>RobotoMono Bold.ttf</string>
+		<string>RobotoMono BoldItalic.ttf</string>
+		<string>RobotoMono ExtraLight.ttf</string>
+		<string>RobotoMono ExtraLightItalic.ttf</string>
+		<string>RobotoMono Italic.ttf</string>
+		<string>RobotoMono Light.ttf</string>
+		<string>RobotoMono LightItalic.ttf</string>
+		<string>RobotoMono Medium.ttf</string>
+		<string>RobotoMono MediumItalic.ttf</string>
+		<string>RobotoMono Regular.ttf</string>
+		<string>RobotoMono SemiBold.ttf</string>
+		<string>RobotoMono SemiBoldItalic.ttf</string>
+		<string>RobotoMono Thin.ttf</string>
+		<string>RobotoMono ThinItalic.ttf</string>
+	</array>
 </dict>
 </plist>

@@ -1,0 +1,16 @@
+export const colors = {
+  goldenOchre: '#D79D59',
+  lightBlack: '#0F0F0F',
+  lightGrey: '#C7C7C7',
+  softCyan: '#3DA8A8',
+  grey: '#999999',
+  red: '#FF5C5C',
+  black: '#000',
+  white: '#fff',
+  darkBlack: '#333333',
+  darkGrey: '#999999',
+  borderGrey: '#999999',
+  blackRGBA: 'rgba(0, 0, 0, 0.8)',
+  greyRGBA: 'rgba(38, 38, 38, 1)',
+  purple: '#8789E8',
+};
